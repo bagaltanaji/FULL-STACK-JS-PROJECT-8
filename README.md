@@ -4,4 +4,5 @@
 * Learned to create linear-gradient background color
 ### Project Link - [Link](https://cheerful-rolypoly-e12a5a.netlify.app/)
 ### This project took around 8 hours to complete.
-### screesshot - ![image](https://user-images.githubusercontent.com/113286299/195633420-bc301345-f308-4fcd-9306-e95489d661e9.png)
+### screesshot -
+![image](https://user-images.githubusercontent.com/113286299/195633420-bc301345-f308-4fcd-9306-e95489d661e9.png)
